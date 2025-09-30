@@ -17,7 +17,6 @@ You must fork the [original repository](), and turn in a link to your groups rep
 ## Integrantes del grupo
 - Noel Rosales Chuco
 - [Nombre 2]
-- [Nombre 3]
 
 ---
 
