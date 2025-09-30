@@ -2,8 +2,6 @@
 
 ## Integrantes del grupo
 - Noel Rosales Chuco
-- [Nombre 2]
-- [Nombre 3]
 
 ---
 
@@ -28,12 +26,3 @@
 - Se utilizó **validación cruzada de 5 pliegues (5-fold CV)** para probar diferentes valores de alpha en Ridge y Lasso.  
 - La **media del R² o del MSE** en los pliegues permitió seleccionar el alpha que mejor generaliza a datos no vistos.  
 - Esto evita escoger un valor de alpha basado solo en el conjunto de entrenamiento, mejorando la robustez del modelo.
-
----
-
-## Archivos incluidos
-
-- `Tarea1_NRosales.ipynb`: Notebook con implementaciones en NumPy de OLS y descenso de gradiente, gráficos de convergencia, trayectorias de coeficientes y predicciones.  
-- `hour.csv`: Dataset usado.  
-- Carpeta `origen/` (o `src/` si renombraste): Contiene el notebook y posibles scripts auxiliares.  
-- `README.md`: Este archivo con la descripción del trabajo.
